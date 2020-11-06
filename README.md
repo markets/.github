@@ -1,2 +1,3 @@
 # .github
-Default files for @markets repos
+
+Default files for [@markets](https://github.com/markets) repos
